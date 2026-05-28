@@ -1,8 +1,8 @@
 # OpenAI Python SDK Samples
 
-一創の記事「OpenAI Python SDK とは？AI モデル活用を容易にする開発者向けツールの概要」で扱われている主なトピックを、**現在の OpenAI Python SDK** でそのまま試せるように整理したサンプル集です。
+[テックブログ「OpenAI Python SDK とは？AI モデル活用を容易にする開発者向けツールの概要」](https://www.issoh.co.jp/tech/details/8636/#OpenAI_Python_SDKAI)で扱われている主なトピックを、**現在のOpenAI Python SDK** でそのまま試せるように整理したサンプル集です。
 
-記事内には旧 API スタイルの例も含まれていますが、OpenAI は新規実装では Responses API と現行 SDK の利用を案内しているため、このリポジトリでは **現行の書き方に寄せて** 再構成しています。
+記事内には旧 API スタイルの例も含まれていますが、OpenAI は新規実装では Responses API と現行 SDK の利用を案内しているため、このリポジトリでは **現行の書き方(openai==2.7.1)に寄せて** 再構成しています。
 
 ## 収録内容
 
